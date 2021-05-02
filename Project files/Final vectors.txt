@@ -1,0 +1,30 @@
+1.
+Rank 12
+Gen 14, 9, 4th vector in POPULATION
+
+2.
+Gen 14, 9, 3rd vector in POPULATION
+
+3.
+Gen 6, 7, 1st vector in POPULATION
+
+4.
+Gen 6, 30, 1st vector in POPULATION
+
+5.
+Gen 7, 25, 13th vector 
+
+6.
+Gen 7, 15, 1st vector 
+
+7.
+Gen 11, 6, 1st vector 
+
+8.
+Gen 11, 15, 11th vector 
+
+9.
+Gen 11, 12, 12th vector
+
+10.
+Gen 7, 5, 1st vector
